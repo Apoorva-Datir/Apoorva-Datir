@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Apoorva Datir</h1>
 <h3 align="center">Passionate about learning new skills !</h3>
 
-- 🔭 I’m currently working on **Android development using Flutter**
+- 🔭 I’m currently working on **Data Science and Machine Learning projects**
 
-- 🌱 I’m currently learning **Flutter, Dart, Python data science**
+- 🌱 I’m currently learning **Flutter, Dart**
 
-- 👯 I’m looking to collaborate on **Android,Data Science and ML projects**
+- 👯 I’m looking to collaborate on **Data Science and ML projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Apoorva-Datir](https://github.com/Apoorva-Datir)
 
-- 📫 How to reach me **datirapoorva@gmail.com**
+- 📫 How to reach me - [datirapoorva@gmail.com](datirapoorva@gmail.com) 
 
 
 <h3 align="left">Languages and Tools:</h3>
