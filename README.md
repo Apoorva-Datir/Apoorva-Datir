@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Data Science and Machine Learning projects**
 
-- 🌱 I’m currently learning **Flutter, Dart**
+- 🌱 I’m currently learning **MERN stack**
 
 - 👯 I’m looking to collaborate on **Data Science and ML projects**
 
