@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Apoorva Datir</h1>
 <h3 align="center">Passionate about learning new skills !</h3>
 
-- 🔭 I’m currently working on **Data Science and Machine Learning projects**
+- 🔭 Learning **MERN stack** 
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 Working on **Data Science and Machine Learning projects**
 
 - 👯 I’m looking to collaborate on **Data Science and ML projects**
 
